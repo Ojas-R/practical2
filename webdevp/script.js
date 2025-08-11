@@ -1,1 +1,0 @@
-    alert("wlco to sigma ")
